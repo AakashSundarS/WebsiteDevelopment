@@ -7,7 +7,7 @@ We are known as Crazy Rockers™️, we are a team of three people vigorously wo
 We are:
     -> Aakash Sundar S
     -> Arunachalam T
-    -> Dheenadayalan
+    -> Dheenadhayalan
 
 We hope to help change others life for the better, and thus, in the process making, our lives better!
 
