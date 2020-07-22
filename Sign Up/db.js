@@ -1,4 +1,5 @@
 let fs = require("fs");
+
 function check() {
   //let name = document.getElementById("name").value;
   //let password = document.getElementById("password").value;
@@ -24,4 +25,5 @@ function check() {
     }
   });
 }
+
 check();
